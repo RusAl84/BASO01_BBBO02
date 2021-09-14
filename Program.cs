@@ -7,7 +7,7 @@ namespace BASO01_BBBO02
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
+      Console.WriteLine("Костя съел ёжика;)");
       //Вступление
       Console.Beep(659, 600);
       Console.Beep(523, 600);
